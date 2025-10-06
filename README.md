@@ -26,7 +26,7 @@ Installation Steps
 
 1. Clone the repository:
 
-git clone https://github.com/AdityaPatadiya/FIM.git
+git clone 
 cd FIM
 
 
